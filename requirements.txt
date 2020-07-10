@@ -1,13 +1,11 @@
 pip ==20.1.1
-numpy
-#Pillow>=1.0
-#Pillow
-Flask
-#ten
-
-#rflow==1.12.2
-#tensorflow==1.15.0
-#protobuf>=3.6.1
-setuptools>=36
-six
+twine==1.15.0
+numpy==1.18.5
+six==1.15.0
 matplotlib==1.5.3
+flask==1.1.2
+pillow==7.2.0
+opencv-python==4.3.0.36
+virtualenv==20.0.26
+zipp==1.0.0
+setuptools==35
