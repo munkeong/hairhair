@@ -41,7 +41,7 @@ RUN apt-get install wget
 RUN apt-get install -y libsm6 libxext6 libxrender-dev
 RUN apt-get install -y libxrender-dev
 #RUN pip3 install opencv-python
-RUN apt-get install -y python3.5-tk
+#RUN apt-get install -y python3.5-tk
 RUN apt-get install -y libxrender1
 
 
